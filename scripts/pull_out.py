@@ -1,4 +1,5 @@
-#! /bin/python
+#! C:\Program Files\Python3\python.exe
+
 ## Modified 'compare_dirs' code
 
 from os import listdir, mkdir

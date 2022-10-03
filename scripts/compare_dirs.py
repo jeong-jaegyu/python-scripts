@@ -1,4 +1,4 @@
-#! /bin/python
+#! C:\Program Files\Python3\python.exe
 
 from os import listdir
 from sys import argv
